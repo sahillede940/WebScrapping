@@ -1,0 +1,49 @@
+{
+    "cookies": "kdt=ZLNRmaSs5hnlyh3Fpf6YwnCniYkl9uOAG3xIIWAZ;twid=\"u=1839178808391512066\";ct0=53064c9ac6e85423a5c08f0462206627;auth_token=02d5a028e63d5ba9edd14d27fe6783684f5eaece;",
+    "user": {
+        "id": "1839178808391512066",
+        "rest_id": "1839178808391512066",
+        "created_at": "2024-09-26 05:43:05+00:00",
+        "date": "2024-09-26 05:43:05+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": null,
+        "bio": null,
+        "fast_followers_count": "0",
+        "favourites_count": "0",
+        "followers_count": "0",
+        "friends_count": "1",
+        "has_custom_timelines": "False",
+        "is_translator": "False",
+        "listed_count": "0",
+        "location": null,
+        "media_count": "0",
+        "name": "Kunal Tiwari IITKGP (TS)",
+        "normal_followers_count": "0",
+        "subscriptions_count": "0",
+        "profile_banner_url": null,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1839178862011494400/mDMDe5OF_normal.jpg",
+        "profile_interstitial_type": null,
+        "protected": "False",
+        "screen_name": "dev_sahil_web_s",
+        "username": "dev_sahil_web_s",
+        "statuses_count": "0",
+        "translator_type": "none",
+        "verified": "False",
+        "can_dm": "True",
+        "following": "False",
+        "followed_by": "False",
+        "community_role": null,
+        "notifications_enabled": "False",
+        "notifications": "False",
+        "possibly_sensitive": "False",
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/dev_sahil_web_s",
+        "is_blocked": "False",
+        "blocked_by": "False",
+        "has_blocked_me": "False"
+    }
+}

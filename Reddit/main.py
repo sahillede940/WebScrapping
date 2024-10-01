@@ -11,7 +11,7 @@ from peewee import (
 )
 from contextlib import asynccontextmanager
 
-db = SqliteDatabase("Reddit/Posts.db")
+db = SqliteDatabase("Posts.db")
 
 
 class Posts(Model):

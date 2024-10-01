@@ -98,3 +98,5 @@ for c in cur:
 
 
 db.close()
+
+# scp -i ./WebScraping_key.pem ./Reddit/Posts.db sahillede940@4.240.113.53:/home/sahillede940/WebScrapping/Reddit
